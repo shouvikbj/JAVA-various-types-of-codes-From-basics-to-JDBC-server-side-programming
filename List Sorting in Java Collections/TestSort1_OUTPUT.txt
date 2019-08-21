@@ -1,0 +1,6 @@
+// Sorting done in ascending order of Salary..
+
+150 Shouvik Bajpayee 200
+100 Shouvik 500
+250 Piku 550
+200 Bajpayee 600
